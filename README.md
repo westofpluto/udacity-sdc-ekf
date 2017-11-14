@@ -9,7 +9,9 @@
 
 ## Objective: <a name="objective"></a>
 
-	The objective of this project was to use both a regular and Extended kalman Filter for tracking the position and velocity of a car using both LIDAR and RADAR measurements. These algorithms can of course be used to track any dynamic objects whose positions and/or velocities can be measured.
+	The objective of this project was to use both a regular and Extended kalman Filter for tracking the position 
+and velocity of a car using both LIDAR and RADAR measurements. These algorithms can of course be used to track any 
+dynamic objects whose positions and/or velocities can be measured.
 
 ## Results: <a name="results"></a>
 
