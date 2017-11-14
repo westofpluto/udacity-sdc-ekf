@@ -57,6 +57,6 @@ The code flow is as follows:
 
 
 ## References: <a name="references"></a>
-	1. Udacity Self Driving Car Extended Kalman Filter Project repo: https://github.com/udacity/CarND-Extended-Kalman-Filter-Project
-	2. Kalman Filter Wikipedia: https://en.wikipedia.org/wiki/Kalman_filter. Discussion of Joseph form is about 40% of the way down the page.
-	3. Extended Kalman Filter Tutorial: https://www.cse.sc.edu/~terejanu/files/tutorialEKF.pdf. A discussion of the IEKF is about 80% of the way toward the end of the paper.
+1. Udacity Self Driving Car Extended Kalman Filter Project repo: https://github.com/udacity/CarND-Extended-Kalman-Filter-Project
+2. Kalman Filter Wikipedia: https://en.wikipedia.org/wiki/Kalman_filter. Discussion of Joseph form is about 40% of the way down the page.
+3. Extended Kalman Filter Tutorial: https://www.cse.sc.edu/~terejanu/files/tutorialEKF.pdf. A discussion of the IEKF is about 80% of the way toward the end of the paper.
