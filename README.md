@@ -3,7 +3,7 @@
 ## Table of Contents: ##
 - [Objective](#objective)
 - [Results](#results)
-- [How to run](#howto)
+- [How to build and run the code](#howto)
 - [Code Flow](#codeflow)
 - [References](#references)
 
@@ -34,7 +34,7 @@ The results for each approach on Dataset 1 in the simulator are shown below. Not
 - EKF with sequential measurement processing: Dataset 2
 ![](Docs/sequential-measurements-dataset2.png) 
 
-## How to run: <a name="howto"></a>
+## How to build and run the code: <a name="howto"></a>
 
 	Perform the following steps:
 
