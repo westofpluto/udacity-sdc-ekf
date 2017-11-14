@@ -1,13 +1,10 @@
 # Extended Kalman Filter Project: Car Tracking and Sensor Fusion 
 
-## Table Content: ##
+## Table of Contents: ##
 - [Objective](#objective)
 - [Results](#results)
 - [How to run](#howto)
 - [Code Flow](#codeflow)
-- [Measurement Process](#measurement)
-- [Lidar measurement](#lidar)
-- [Radar measurement](#radar)
 - [References](#references)
 
 ## Objective: <a name="objective"></a>
