@@ -38,11 +38,11 @@ The results for each approach on Dataset 1 in the simulator are shown below. Not
 
 	Perform the following steps:
 
-	- Clone this repo: **git clone https://github.com/westofpluto/udacity-sdc-ekf.git**
-	- Enter into directory: **cd ~/<repository>**
-	- Make build directory: **mkdir build && cd build**
-	- Compile the code: **cmake .. && make**
-	- Run the code: **./ExtendedKF **
+	- Clone this repo: git clone https://github.com/westofpluto/udacity-sdc-ekf.git
+	- Enter into directory: cd ~/<repository>
+	- Make build directory: mkdir build && cd build
+	- Compile the code: cmake .. && make
+	- Run the code: ./ExtendedKF 
 	- Start and run term2_sim. On my Mac, this is called term2_sim.app. This simulator can be found here: https://github.com/udacity/self-driving-car-sim/releases
 	
 ## Code Flow: <a name="codeflow"></a>
